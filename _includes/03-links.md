@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+If you want to know more details [about me](about.me/owraza), then you should click on the link. 
